@@ -1,0 +1,2 @@
+# BOB_COSTOMER_CONFIG
+BOB翻译个人配置
